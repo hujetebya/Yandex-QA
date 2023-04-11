@@ -1,4 +1,8 @@
 # Yandex-QA
+
+Баг-репорты: https://worsethanyou.youtrack.cloud/issues/YT
+
+
 Спринт 1 – Проектирование тестов
 
 Пройдены темы:
